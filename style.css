@@ -3,11 +3,11 @@ body {
   background: #eee;
 }
 
-#animals {
+#musicitems {
   width: 70%;
 }
 
-.animal-item {
+.music-item {
   float: left;
   padding: 10px;
 }
